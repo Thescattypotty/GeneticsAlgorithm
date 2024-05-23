@@ -1,0 +1,767 @@
+Solution found in 1001 generations
+Final solution fitness: -239.0
+Room Requirements breaked
+Prof Availability breaked
+Prof Availability breaked
+Prof Availability breaked
+Room Requirements breaked
+Prof Availability breaked
+Room Requirements breaked
+Prof Availability breaked
+Prof Availability breaked
+Prof Availability breaked
+Prof Availability breaked
+Prof Availability breaked
+Room Requirements breaked
+Room Requirements breaked
+Prof Availability breaked
+Clashes: -23900
+CLASS 1:
+COURSE: AlgorithmRequire Room SC
+STUDENT GROUP: 1
+ROOM: R11 , Type : SC
+PROFESSOR: P.Alice Wilson
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 2:
+COURSE: Computer NetworksRequire Room SC
+STUDENT GROUP: 1
+ROOM: R12 , Type : SC
+PROFESSOR: P.Kevin Rodriguez
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 3:
+COURSE: Artificial IntelligenceRequire Room CC
+STUDENT GROUP: 1
+ROOM: R14 , Type : SC
+PROFESSOR: P.Logan Price
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 4:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 1
+ROOM: T11 , Type : CC
+PROFESSOR: P.Daniel Adams
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 5:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 1
+ROOM: R11 , Type : SC
+PROFESSOR: P.Kevin Rodriguez
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 6:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 1
+ROOM: T20 , Type : CC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 7:
+COURSE: AlgorithmRequire Room SC
+STUDENT GROUP: 2
+ROOM: R13 , Type : SC
+PROFESSOR: P.Hafsa Bajdani
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 8:
+COURSE: Computer NetworksRequire Room SC
+STUDENT GROUP: 2
+ROOM: R23 , Type : SC
+PROFESSOR: P.Samantha Lee
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 9:
+COURSE: Database ManagementRequire Room SC
+STUDENT GROUP: 2
+ROOM: R21 , Type : SC
+PROFESSOR: P.Brandon Rivera
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 10:
+COURSE: Machine LearningRequire Room SC
+STUDENT GROUP: 2
+ROOM: R20 , Type : SC
+PROFESSOR: P.Alice Wilson
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 11:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 2
+ROOM: R10 , Type : SC
+PROFESSOR: P.Jessica Thomas
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 12:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 2
+ROOM: R15 , Type : SC
+PROFESSOR: P.Brandon Rivera
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 13:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 2
+ROOM: R30 , Type : SC
+PROFESSOR: P.Michael Brown
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 14:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 2
+ROOM: R17 , Type : SC
+PROFESSOR: P.Nathan Harris
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 15:
+COURSE: Data StructuresRequire Room CC
+STUDENT GROUP: 3
+ROOM: T10 , Type : CC
+PROFESSOR: P.David Martinez
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 16:
+COURSE: Software EngineeringRequire Room CC
+STUDENT GROUP: 3
+ROOM: R15 , Type : SC
+PROFESSOR: P.Amanda Evans
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 17:
+COURSE: Artificial IntelligenceRequire Room CC
+STUDENT GROUP: 3
+ROOM: T20 , Type : CC
+PROFESSOR: P.Sophie Bailey
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 18:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 3
+ROOM: T19 , Type : CC
+PROFESSOR: P.Richard Garcia
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 19:
+COURSE: Computer GraphicsRequire Room CC
+STUDENT GROUP: 3
+ROOM: T14 , Type : CC
+PROFESSOR: P.Amanda Evans
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 20:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 3
+ROOM: R17 , Type : SC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 21:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 3
+ROOM: T10 , Type : CC
+PROFESSOR: P.Daniel Adams
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 22:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 3
+ROOM: T12 , Type : CC
+PROFESSOR: P.Nicole King
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 23:
+COURSE: Computer NetworksRequire Room SC
+STUDENT GROUP: 4
+ROOM: R19 , Type : SC
+PROFESSOR: P.Jessica Thomas
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 24:
+COURSE: Database ManagementRequire Room SC
+STUDENT GROUP: 4
+ROOM: R13 , Type : SC
+PROFESSOR: P.Cameron Baker
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 25:
+COURSE: Machine LearningRequire Room SC
+STUDENT GROUP: 4
+ROOM: R22 , Type : SC
+PROFESSOR: P.Lisa Johnson
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 26:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 4
+ROOM: R22 , Type : SC
+PROFESSOR: P.Jessica Thomas
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 27:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 4
+ROOM: R15 , Type : SC
+PROFESSOR: P.Cameron Baker
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 28:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 4
+ROOM: R24 , Type : SC
+PROFESSOR: P.Michael Brown
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 29:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 4
+ROOM: R23 , Type : SC
+PROFESSOR: P.Samantha Lee
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 30:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 4
+ROOM: R23 , Type : SC
+PROFESSOR: P.Alexandra Scott
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 31:
+COURSE: Software EngineeringRequire Room CC
+STUDENT GROUP: 5
+ROOM: T21 , Type : CC
+PROFESSOR: P.Nicole King
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 32:
+COURSE: Artificial IntelligenceRequire Room CC
+STUDENT GROUP: 5
+ROOM: T19 , Type : CC
+PROFESSOR: P.Ava Ward
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 33:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 5
+ROOM: T17 , Type : CC
+PROFESSOR: P.Sarah Thompson
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 34:
+COURSE: Computer GraphicsRequire Room CC
+STUDENT GROUP: 5
+ROOM: T11 , Type : CC
+PROFESSOR: P.Kayla Lopez
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 35:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 5
+ROOM: T16 , Type : CC
+PROFESSOR: P.Dylan Morris
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 36:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 5
+ROOM: T21 , Type : CC
+PROFESSOR: P.Richard Garcia
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 37:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 5
+ROOM: T20 , Type : CC
+PROFESSOR: P.Kayla Lopez
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 38:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 5
+ROOM: T11 , Type : CC
+PROFESSOR: P.Logan Price
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 39:
+COURSE: Database ManagementRequire Room SC
+STUDENT GROUP: 6
+ROOM: R24 , Type : SC
+PROFESSOR: P.Brandon Rivera
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 40:
+COURSE: Machine LearningRequire Room SC
+STUDENT GROUP: 6
+ROOM: R26 , Type : SC
+PROFESSOR: P.John Smith
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 41:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 6
+ROOM: R12 , Type : SC
+PROFESSOR: P.Samantha Lee
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 42:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 6
+ROOM: R14 , Type : SC
+PROFESSOR: P.Ethan Stewart
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 43:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 6
+ROOM: R25 , Type : SC
+PROFESSOR: P.John Smith
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 44:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 6
+ROOM: R21 , Type : SC
+PROFESSOR: P.Amy Clark
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 45:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 6
+ROOM: R17 , Type : SC
+PROFESSOR: P.Megan Mitchell
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 46:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 6
+ROOM: R19 , Type : SC
+PROFESSOR: P.Hafsa Bajdani
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 47:
+COURSE: Artificial IntelligenceRequire Room CC
+STUDENT GROUP: 7
+ROOM: T11 , Type : CC
+PROFESSOR: P.Ava Ward
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 48:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 7
+ROOM: T20 , Type : CC
+PROFESSOR: P.Emily Martinez
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 49:
+COURSE: Computer GraphicsRequire Room CC
+STUDENT GROUP: 7
+ROOM: T16 , Type : CC
+PROFESSOR: P.Justin Carter
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 50:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 7
+ROOM: T18 , Type : CC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 51:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 7
+ROOM: T16 , Type : CC
+PROFESSOR: P.Sarah Thompson
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 52:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 7
+ROOM: T12 , Type : CC
+PROFESSOR: P.Justin Carter
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 53:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 7
+ROOM: T15 , Type : CC
+PROFESSOR: P.Dylan Morris
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 54:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 7
+ROOM: T16 , Type : CC
+PROFESSOR: P.Sarah Thompson
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 55:
+COURSE: Machine LearningRequire Room SC
+STUDENT GROUP: 8
+ROOM: R18 , Type : SC
+PROFESSOR: P.Hafsa Bajdani
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 56:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 8
+ROOM: R13 , Type : SC
+PROFESSOR: P.Amy Clark
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 57:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 8
+ROOM: R17 , Type : SC
+PROFESSOR: P.Ethan Stewart
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 58:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 8
+ROOM: R21 , Type : SC
+PROFESSOR: P.Lisa Johnson
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 59:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 8
+ROOM: R29 , Type : SC
+PROFESSOR: P.Samantha Lee
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 60:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 8
+ROOM: R18 , Type : SC
+PROFESSOR: P.Ethan Stewart
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 61:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 8
+ROOM: R12 , Type : SC
+PROFESSOR: P.Hafsa Bajdani
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 62:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 8
+ROOM: T15 , Type : CC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 63:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 9
+ROOM: T13 , Type : CC
+PROFESSOR: P.Emily Martinez
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 64:
+COURSE: Computer GraphicsRequire Room CC
+STUDENT GROUP: 9
+ROOM: T17 , Type : CC
+PROFESSOR: P.Benjamin Wright
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 65:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 9
+ROOM: T20 , Type : CC
+PROFESSOR: P.Logan Price
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 66:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 9
+ROOM: T12 , Type : CC
+PROFESSOR: P.Emily Martinez
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 67:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 9
+ROOM: T14 , Type : CC
+PROFESSOR: P.Benjamin Wright
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 68:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 9
+ROOM: T12 , Type : CC
+PROFESSOR: P.Ava Ward
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 69:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 9
+ROOM: T11 , Type : CC
+PROFESSOR: P.Richard Garcia
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 70:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 9
+ROOM: R13 , Type : SC
+PROFESSOR: P.Alice Wilson
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 71:
+COURSE: Mobile App DevelopmentRequire Room SC
+STUDENT GROUP: 10
+ROOM: R13 , Type : SC
+PROFESSOR: P.Jessica Thomas
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 72:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 10
+ROOM: R10 , Type : SC
+PROFESSOR: P.Cameron Baker
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 73:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 10
+ROOM: R18 , Type : SC
+PROFESSOR: P.Lisa Johnson
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 74:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 10
+ROOM: R23 , Type : SC
+PROFESSOR: P.Kevin Rodriguez
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 75:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 10
+ROOM: R30 , Type : SC
+PROFESSOR: P.Megan Mitchell
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 76:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 10
+ROOM: R30 , Type : SC
+PROFESSOR: P.Michael Brown
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 77:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 10
+ROOM: T12 , Type : CC
+PROFESSOR: P.Emily Martinez
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 78:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 10
+ROOM: R12 , Type : SC
+PROFESSOR: P.Richard Garcia
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 79:
+COURSE: Computer GraphicsRequire Room CC
+STUDENT GROUP: 11
+ROOM: T19 , Type : CC
+PROFESSOR: P.Amanda Evans
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 80:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 11
+ROOM: T11 , Type : CC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 81:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 11
+ROOM: T20 , Type : CC
+PROFESSOR: P.Daniel Adams
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 82:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 11
+ROOM: T19 , Type : CC
+PROFESSOR: P.Justin Carter
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 83:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 11
+ROOM: T21 , Type : CC
+PROFESSOR: P.Dylan Morris
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 84:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 11
+ROOM: T16 , Type : CC
+PROFESSOR: P.Richard Garcia
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 85:
+COURSE: CybersecurityRequire Room SC
+STUDENT GROUP: 12
+ROOM: R11 , Type : SC
+PROFESSOR: P.Cameron Baker
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 86:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 12
+ROOM: R13 , Type : SC
+PROFESSOR: P.Lisa Johnson
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 87:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 12
+ROOM: R21 , Type : SC
+PROFESSOR: P.Amy Clark
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 88:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 12
+ROOM: R17 , Type : SC
+PROFESSOR: P.Brandon Rivera
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 89:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 12
+ROOM: R21 , Type : SC
+PROFESSOR: P.Michael Brown
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 90:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 12
+ROOM: T21 , Type : CC
+PROFESSOR: P.Daniel Adams
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 91:
+COURSE: Data ScienceRequire Room CC
+STUDENT GROUP: 13
+ROOM: T10 , Type : CC
+PROFESSOR: P.Hannah Turner
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 92:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 13
+ROOM: T11 , Type : CC
+PROFESSOR: P.David Martinez
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 93:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 13
+ROOM: T14 , Type : CC
+PROFESSOR: P.Benjamin Wright
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 94:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 13
+ROOM: R17 , Type : SC
+PROFESSOR: P.Logan Price
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 95:
+COURSE: AlgorithmRequire Room SC
+STUDENT GROUP: 13
+ROOM: R12 , Type : SC
+PROFESSOR: P.Hafsa Bajdani
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 96:
+COURSE: Operating SystemsRequire Room SC
+STUDENT GROUP: 14
+ROOM: R11 , Type : SC
+PROFESSOR: P.Alice Wilson
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 97:
+COURSE: Parallel ComputingRequire Room SC
+STUDENT GROUP: 14
+ROOM: R13 , Type : SC
+PROFESSOR: P.Jessica Thomas
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 98:
+COURSE: Natural Language ProcessingRequire Room SC
+STUDENT GROUP: 14
+ROOM: R17 , Type : SC
+PROFESSOR: P.Ethan Stewart
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 99:
+COURSE: BioinformaticsRequire Room SC
+STUDENT GROUP: 14
+ROOM: R14 , Type : SC
+PROFESSOR: P.Alice Wilson
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 100:
+COURSE: Computer NetworksRequire Room SC
+STUDENT GROUP: 14
+ROOM: R28 , Type : SC
+PROFESSOR: P.Samantha Lee
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 101:
+COURSE: Computer ArchitectureRequire Room CC
+STUDENT GROUP: 15
+ROOM: T13 , Type : CC
+PROFESSOR: P.David Martinez
+TIMESLOT: 9:00 - 10:30
+*****************************************************************
+CLASS 102:
+COURSE: RoboticsRequire Room CC
+STUDENT GROUP: 15
+ROOM: T19 , Type : CC
+PROFESSOR: P.Justin Carter
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 103:
+COURSE: Computer VisionRequire Room CC
+STUDENT GROUP: 15
+ROOM: T20 , Type : CC
+PROFESSOR: P.Dylan Morris
+TIMESLOT: 14:00 - 16:00
+*****************************************************************
+CLASS 104:
+COURSE: Game DevelopmentRequire Room CC
+STUDENT GROUP: 15
+ROOM: T12 , Type : CC
+PROFESSOR: P.Sarah Thompson
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 105:
+COURSE: Web DevelopmentRequire Room CC
+STUDENT GROUP: 15
+ROOM: T21 , Type : CC
+PROFESSOR: P.David Martinez
+TIMESLOT: 16:15 - 18:00
+*****************************************************************
+CLASS 106:
+COURSE: Computer NetworksRequire Room SC
+STUDENT GROUP: 15
+ROOM: R23 , Type : SC
+PROFESSOR: P.Amy Clark
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
+CLASS 107:
+COURSE: Software EngineeringRequire Room CC
+STUDENT GROUP: 15
+ROOM: T20 , Type : CC
+PROFESSOR: P.Justin Carter
+TIMESLOT: 10:45 - 12:30
+*****************************************************************
